@@ -9,9 +9,7 @@
 int main()
 {
     coinBankSystemInit();
-
-    motorInit();
-
+    
     while (true) {
         coinBankSystemInit();
         delay(TIME_INCREMENT_MS);
