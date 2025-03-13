@@ -1,4 +1,5 @@
 # Advanced-Coin-Bank-System
+### by Alexander Ramos-Rodriguez & Emma Valente
 
 ## Advanced Coin Bank System
 | Behavior  | Test Result | Comment |
